@@ -35,7 +35,7 @@ $lang = array_merge(
 	'RT_SORT_START_TIME'            => 'Razvrstaj prema vremenu početka teme',
 	'RT_SORT_START_TIME_EXP'        => 'Omogućite razvrstavanje nedavnih tema prema vremenu početka teme umesto vremenu poslednjeg odgovora.',
 	'RT_UNREAD_ONLY'                => 'Prikaži samo nepročitane teme',
-	'RT_UNREAD_ONLY_EXP'            => 'Omogućite da biste prikazali nepročitane teme (bez obzira da li su “nedavne” ili ne). Ova karakteristika koristi ista podešavanja (sa izuzetkom foruma, tema i sl.) kao normalan režim. Napomena: ovo funkcioniše samo za prijavljene korisnike. Gostima će se prikazivati podrazumevana lista.',
+	'RT_UNREAD_ONLY_EXP'            => 'Omogućite da biste prikazali nepročitane teme (bez obzira da li su “nedavne” ili ne). Ova karakteristika koristi ista podešavanja (sa izuzetkom foruma, tema i sl.) kao normalan režim. Napomena: ovo funkcioniše samo za prijavljene korisnike/ce. Gostima će se prikazivati podrazumevana lista.',
 	'RT_RESET_DEFAULT'              => 'Vrati podrazumevana korisnička podešavanja.',
 	'RT_RESET_DEFAULT_EXP'          => 'Vratite korisnička podešavanja na podrazumevana.',
 
