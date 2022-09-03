@@ -2,7 +2,7 @@ $lang = array_merge(
 	$lang, array(
 	//forum acp
 	'RECENT_TOPICS_LIST'            => 'Prikaži u “Nedavne teme”',
-	'RECENT_TOPICS_LIST_EXPLAIN'    => 'Omogućite prikaz tema na ovom forumu u dodatku “Nedavne teme”.',
+	'RECENT_TOPICS_LIST_EXPLAIN'    => 'Omogućite prikaz tema iz ovog foruma u dodatku “Nedavne teme”.',
 
 	//acp title
 	'RECENT_TOPICS'                 => 'Nedavne teme',
